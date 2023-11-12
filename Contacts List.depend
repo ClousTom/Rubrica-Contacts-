@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542504045 source:c:\users\claudio\desktop\univpm\anno 2\algoritmi e strutture dati\contacts list\main.cpp
+	<iostream>
+	<stdio.h>
+
+1543453490 source:c:\users\claudio\desktop\univpm\anno 2\algoritmi e strutture dati\progetto\contacts list\main.cpp
+	<iostream>
+	<stdio.h>
+	<list>
+	<string>
+
+1544405413 source:c:\users\claudio\google drive\univpm\anno 2\algoritmi e strutture dati ok\progetto\contacts list\main.cpp
+	<iostream>
+	<stdio.h>
+	<list>
+	<string>
+
